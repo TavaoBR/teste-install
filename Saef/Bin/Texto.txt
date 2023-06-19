@@ -1,0 +1,42 @@
+                  PEDIDO               
+TESTES NFC E NFE LLeLC
+RUA DA NOTA, 1350, PAJUÇARA - Aracaju, S
+E - 8965635566
+---------------------------------------
+Cliente : 1-VENDA A CONSUMIDOR
+Endereco: , 
+Bairro : CONSUMO
+Cid-Est: Aracaju - SE
+OBS: 
+---------------------------------------
+Funcion.: TESTE
+Operador: CAIXA 01
+---------------------------------------
+Pedido N.: 001632   30/04/2020 11:13:32
+---------------------------------------
+Codigo Descricao    
+Qtd     Preco    Preco Desc      Total
+---------------------------------------
+66    NOTA FISCAL EMITIDA EM AMBIENTE   
+1,00   98,00    98,00        98,00    
+----------------------------------------
+SUB TOTAL R$   98,00
+DESCONTO  R$   0,00
+DESCONTO  %    0,00
+TOTAL     R$   98,00
+ 
+Assinatura:_____________________________
+Cliente : 1-VENDA A CONSUMIDOR
+Forma de Pagamento: 
+Dinheiro  R$   98,00
+OBS: SEM VALOR FISCAL/SIMPLES CONFERENCIA
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+m
+
